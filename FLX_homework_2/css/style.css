@@ -3,8 +3,7 @@
         color: #fff;
         background-color: #87cefa;
     }
-
-    p::first-letter{
+      p::first-letter{
         font-size: 30px;
         color: #87cefa;
     }
